@@ -1,0 +1,7 @@
+{
+    "name": "MonsterLabZ_cjayfix",
+    "version_number": "3.0.15",
+    "website_url": "https://github.com/cjayride/MonsterLabZ_cjayfix",
+    "description": "New monsters for Valheim. Community fix for plant hover, EffectList.Create, and spider hit/death volume.",
+    "dependencies": []
+}
